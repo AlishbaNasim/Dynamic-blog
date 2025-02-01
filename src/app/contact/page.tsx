@@ -5,7 +5,7 @@ const contact = () => {
           <div className="container mx-auto text-center">
             <h2 className="text-3xl font-bold text-teal-700">Get in Touch</h2>
             <p className="text-gray-700 mt-4">
-              We'd love to hear from you! Fill out the form below to contact us.
+              We	&apos;d love to hear from you! Fill out the form below to contact us.
             </p>
           </div>
         </section>

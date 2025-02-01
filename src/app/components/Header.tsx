@@ -3,7 +3,7 @@ import Link from 'next/link'
 function Header() {
   return (
     <div className="container mx-auto flex justify-between items-center p-4">
-    <h1 className="text-2xl font-bold text-teal-600">CodeQueen's Hub</h1>
+    <h1 className="text-2xl font-bold text-teal-600">CodeQueen	&apos;s Hub</h1>
     <nav className="space-x-4 font-semibold hidden md:flex">
       <Link href="/" className="text-gray-600 hover:text-teal-600 transition duration-300">
         Home

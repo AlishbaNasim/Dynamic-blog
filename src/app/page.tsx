@@ -7,7 +7,7 @@ const Home = () => {
       <section className="bg-teal-50 py-20">
         <div className="container mx-auto text-center px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-teal-700">
-            Welcome to CodeQueen's Blog Hub
+            Welcome to CodeQueen	&apos;s Blog Hub
           </h2>
           <p className="text-gray-700 mt-4">
             Dive into dynamic content, tech tips, and innovative ideas.
