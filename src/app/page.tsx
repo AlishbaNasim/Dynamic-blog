@@ -54,7 +54,7 @@ const Home = () => {
             Testimonial
           </h3>
           <p className="text-black text-lg  italic">
-            "CodeQueen&apos;s blogs helped me improve my coding journey!"
+          &apos;CodeQueen&apos;s blogs helped me improve my coding journey!&apos;
           </p>
           <p className="mt-4 text-teal-700 font-bold">– A Happy Reader</p>
           <Link href="/contact" className="mt-8 inline-block bg-teal-700 text-white px-6 py-3 rounded hover:bg-teal-500">Subscribe Now</Link>

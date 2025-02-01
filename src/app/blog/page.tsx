@@ -4,7 +4,7 @@ import Link from 'next/link'
 type Post = {
   title: string,
   summary: string,
-  image: any,
+  image: string,
   slug: string
 }
 async function page() {

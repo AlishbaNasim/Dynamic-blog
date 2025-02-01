@@ -5,7 +5,7 @@ import { urlForImage } from "../../sanity/lib/image";
 type Post = {
   title: string,
   summary: string,
-  image: any,
+  image: string,
   slug: string,
 };
 

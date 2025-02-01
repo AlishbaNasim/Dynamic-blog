@@ -6,9 +6,9 @@ const AboutPage = () => {
       {/* About Section */}
       <section className="bg-teal-50 py-16 px-4 w-full">
         <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold text-teal-700">About CodeQueen's Blog Hub</h2>
+          <h2 className="text-3xl font-bold text-teal-700">About CodeQueen&apos;s Blog Hub</h2>
           <p className="text-gray-700 mt-4 max-w-2xl mx-auto">
-            Welcome to CodeQueen's Blog Hub – your go-to platform for exploring the latest trends, tools, and insights in the world of technology. Our mission is to empower developers, tech enthusiasts, and learners by providing them with engaging, informative content.
+            Welcome to CodeQueen&apos;s Blog Hub – your go-to platform for exploring the latest trends, tools, and insights in the world of technology. Our mission is to empower developers, tech enthusiasts, and learners by providing them with engaging, informative content.
           </p>
         </div>
       </section>
