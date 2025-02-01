@@ -23,7 +23,7 @@ const Home = () => {
       {/* Features Section */}
       <section className="container mx-auto py-16 px-4">
         <h3 className="text-3xl font-bold text-center text-teal-700">
-          Why Choose CodeQueen's Blog?
+          Why Choose CodeQueen&apos;s Blog?
         </h3>
         <div className="mt-8 flex flex-wrap justify-center gap-8">
           {/* Feature Cards */}
@@ -54,7 +54,7 @@ const Home = () => {
             Testimonial
           </h3>
           <p className="text-black text-lg  italic">
-            "CodeQueen's blogs helped me improve my coding journey!"
+            "CodeQueen&apos;s blogs helped me improve my coding journey!"
           </p>
           <p className="mt-4 text-teal-700 font-bold">– A Happy Reader</p>
           <Link href="/contact" className="mt-8 inline-block bg-teal-700 text-white px-6 py-3 rounded hover:bg-teal-500">Subscribe Now</Link>

@@ -22,7 +22,7 @@ async function page() {
           Welcome to Our Blog
         </h1>
         <p className="mt-6 text-lg text-center text-gray-700 dark:text-gray-400 sm:text-lg lg:text-xl max-w-2xl mx-auto leading-relaxed">
-        Master the art of coding with us—exploring one language, one innovation at a time    
+        Master the art of coding with us—exploring one language &rsquo; one innovation at a time    
            </p>
         <div className="mt-8 flex justify-center">
            <Link href="/about">
