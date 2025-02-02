@@ -10,7 +10,7 @@ interface PostParams {
 const PostPage = async ({ params: { slug } }: { params: PostParams }) => {
   const query = `*[_type=='post' && slug.current == "${slug}"]{
     summary, title, image, content,
-    author- >{bio, name, image}
+    author->{bio, name, image}
   }[0]`;
   const post = await client.fetch(query);
 
